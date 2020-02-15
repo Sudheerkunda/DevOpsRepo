@@ -1,3 +1,4 @@
+#Power shell script for to find even or odd numbers
 for ($i=0; $i -le 10;$i++)
 {
     Write-Output "Welcome $i"
